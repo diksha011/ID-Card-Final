@@ -26,7 +26,8 @@ function Downloadcard() {
                  <button className="downBtn" >
                      <span>Download &#8595;</span>
                  </button>
-                 <img   src="https://png.pngtree.com/element_our/20190528/ourlarge/pngtree-file-icon-image_1128287.jpg"/>
+                 <img style={{width: '100%'}} 
+                 src="https://svn.apache.org/repos/asf/incubator/ooo/symphony/trunk/main/extras/source/gallery/symbols/Icon-Document04-Blue.png"/>
              </div>
          </div>
         </a>
